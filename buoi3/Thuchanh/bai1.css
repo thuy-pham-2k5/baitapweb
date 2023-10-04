@@ -1,0 +1,42 @@
+ul.a {list-style-type: circle;}
+
+ul.b {list-style-type: square;}
+
+ol.c {list-style-type: upper-roman;}
+
+ol.d {list-style-type: lower-alpha;}
+
+
+ul.e {list-style-image: url('http://agilearn.vn/draftfile.php/263/user/draft/510120718/bullet_red%20_2.png');}
+
+
+ul.f {list-style-position:inside;}
+ul.g {list-style-position:outside;}
+
+
+ul.h {list-style: square inside url("http://agilearn.vn/draftfile.php/263/user/draft/510120718/bullet_red%20_2.png");}
+
+
+
+
+
+ol.i {
+    background: #ff9999;
+    padding: 20px;
+}
+
+ul.k {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li.l{
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ul li.m{
+    background: #cce5ff;
+    margin: 5px;
+}
